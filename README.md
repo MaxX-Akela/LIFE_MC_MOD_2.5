@@ -1,4 +1,4 @@
-# [ Ссылка на скачивание ]([https://drive.google.com/file/d/1Yu5x-8b_yiR0Ob29xoDJkg3j_fyF0G7G/view?usp=sharing](https://drive.google.com/file/d/1GC-YhrI-5dt9fybAsgess_cif1jrHJhZ/view?usp=sharing )
+# [ Ссылка на скачивание ]( https://drive.google.com/file/d/1GC-YhrI-5dt9fybAsgess_cif1jrHJhZ/view?usp=drive_link )
 
 #  Так же сейчас у нас стоят моды на: 
 
