@@ -2,4 +2,4 @@
 
 ## С помощью него вы сможете переименовывать разные предметы и развлекатся с ними.
 
-<img src="assets/КCЭПСП.png" align="right" width="400px" alt="КCЭПСП">
+<img src="/assets/КCЭПСП.png" align="right" width="400px" alt="КCЭПСП">
